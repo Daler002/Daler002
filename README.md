@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-👋 Salom! Men Ozodov Mirabzal
+👋 Salom! Men Daler Badiyev
 
 🚀 MERN Dasturchi | Full-Stack Ishqibozi
 
-2 yildan ortiq professional tajribaga ega bo‘lib, men veb-dasturlash sohasidagi ko‘nikmalarimni rivojlantirdim. 20 dan ortiq loyihani muvaffaqiyatli yakunladim va texnologiyalar va innovatsiyalarni yangi bosqichga olib chiqdim. Mening ishtiyoqim, mijozlar kutganidan yuqori darajadagi, mukammal va dinamik veb-ilovalarni yaratishga qaratilgan.
+4 yildan ortiq  tajribaga ega bo‘lib, men veb-dasturlash sohasidagi ko‘nikmalarimni rivojlantirdim. 20 dan ortiq loyihani muvaffaqiyatli yakunladim va texnologiyalar va innovatsiyalarni yangi bosqichga olib chiqdim. Mening ishtiyoqim, mijozlar kutganidan yuqori darajadagi, mukammal va dinamik veb-ilovalarni yaratishga qaratilgan.
 
 Texnik Ekspertiza:
 Frontend:
@@ -16,15 +16,17 @@ Backend:
 🔧 Node.js, Express – Barqaror va kengaytiriladigan server ilovalarini ishlab chiqish.
 💾 MongoDB – NoSQL ma'lumotlar bazalarida ma'lumotlarni moslashuvchan va samarali boshqarish.
 🐍 Python, Django, Django REST Framework – Kuchli RESTful API va backend tizimlarni yaratish.
-DevOps va Asboblar:
+
 
 💻 Git – Versiyalarni boshqarish uchun har bir o‘zgarishni kuzatib borish.
 🐳 Docker – Doimiy rivojlanish muhitlari uchun konteynerizatsiya.
 ☁️ Bulut Xizmatlari – Bulut platformalarida ilovalarni joylashtirish va boshqarish tajribasi.
 🔄 RESTful API – RESTful xizmatlarni loyihalash va integratsiyalash bo‘yicha mutaxassis.
 Tillar:
-🌍 Ingliz Tili: B1 darajasi – Suhbatlashuv darajasi.
-🌍 O‘zbek Tili: C1 darajasi – Ona tili darajasida.
+🌍 Tojik Tili:   darajasi – Ona tili darajasida.
+🌍 O‘zbek Tili:  darajasi – Ona tili darajasida.
+🌍 Qozoq Tili:   darajasi – tushuna oladigan va gaplasha oladigan darajasida.
+🌍 Turkman Tili: darajasi – tushuna oladigan va gaplasha oladigan darajasida.
 Soft Skills:
 🧠 Muammolarni Hal Qilish: Murakkab muammolarni tahliliy fikrlash orqali hal qilish.
 👥 Jamoaviy Ish: Yuqori darajadagi yechimlar uchun jamoa bilan samarali ishlash.
