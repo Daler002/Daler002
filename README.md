@@ -9,7 +9,7 @@
 Texnik Ekspertiza:
 Frontend:
 
-🖼 HTML, CSS, SASS, Bootstrap – Vizual jihatdan go'zal va moslashuvchan foydalanuvchi interfeyslarini yaratish.
+🖼 HTML, CSS, SASS,neatcss, Bootstrap – Vizual jihatdan go'zal va moslashuvchan foydalanuvchi interfeyslarini yaratish.
 🎨 JavaScript, React.js – Interaktiv, yuqori samarali bir sahifali ilovalarni yaratish.
 Backend:
 
